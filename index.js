@@ -1,3 +1,7 @@
-"use strict";
+console.log("ss");
+//const express = require("express");
+//const app = express();
 
-console.log("hi");
+// require("@babel/core").transform("code", {
+//     presets: ["@babel/preset-env"],
+//   });
